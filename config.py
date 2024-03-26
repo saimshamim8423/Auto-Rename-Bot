@@ -48,12 +48,12 @@ Use These Keywords To Setup Custom File Name
 
 <b>➻ Your Current Auto Rename Format :</b> <code>{format_template}</code> """
     
-    ABOUT_TXT = f"""<b>🤖 My Name :</b> <a href='https://t.me/AutoRenameXBot'>Auto Rename Bot ⚡</a>
+    ABOUT_TXT = f"""<b>🤖 My Name :</b> <a href='https://t.me/teamotaku109'>Auto Rename Bot ⚡</a>
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
+<b>📢 Channel :</b> <a href='https://t.me/teamotaku109'>Team Otaku</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/ZORO1SENPAI'>ZORO Developer</a>
     
 <b>♻️ Bot Made By :</b> @Madflix_Bots"""
 
@@ -82,7 +82,7 @@ Use These Keywords To Setup Custom File Name
     
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
     
-<b>🛍 UPI ID:</b> <code>madflixofficial@axl</code> """
+<b>🛍 UPI ID:</b> <code>teamkajdicial@axl</code> """
     
     HELP_TXT = """<b>Hey</b> {}
     
