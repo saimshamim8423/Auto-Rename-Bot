@@ -55,7 +55,7 @@ Use These Keywords To Setup Custom File Name
 <b>📢 Channel :</b> <a href='https://t.me/teamotaku109'>Team Otaku</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/ZORO1SENPAI'>ZORO Developer</a>
     
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+<b>♻️ Bot Made By :</b> @teamotaku109"""
 
     
     THUMBNAIL_TXT = """<b><u>🖼️  HOW TO SET THUMBNAIL</u></b>
