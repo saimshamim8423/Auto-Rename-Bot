@@ -52,8 +52,8 @@ Use These Keywords To Setup Custom File Name
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/teamotaku109'>Team Otaku</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/ZORO1SENPAI'>ZORO Developer</a>
+<b>📢 Channel :</b> <a href='https://t.me/Anity_managementbots'>Anity Bots</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/Anity_managementbots'>Anity Bots</a>
     
 <b>♻️ Bot Made By :</b> @teamotaku109"""
 
